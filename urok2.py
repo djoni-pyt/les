@@ -6,5 +6,5 @@
 
 # str
 
-str = 'stroka'
-print(str)
+# str = 'stroka'
+# print(str)
